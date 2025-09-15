@@ -46,6 +46,9 @@ Assigments from class will be here in the pursuit of learning HTML coding
   <button class="redirect-button" onclick="window.location.href='Black_Goose_Bistro_News.html'">
     Go to Bistro News
   </button>
+  <button class="redirect-button" onclick="window.location.href='bistro-tapenade.html'">
+  View Tapenade Recipe
+</button>
 </body>
 </html>
 
