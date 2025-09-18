@@ -35,7 +35,7 @@ Assigments from class will be here in the pursuit of learning HTML coding
   <h1>Welcome to Black Goose Bistro</h1>
   <p>Click below to explore our full site:</p>
 
-  <button onclick="window.location.href='bistro/Black_Goose_bistro_index.html'">Go to About Page</button>
+  <button onclick="window.location.href='bistro/Black_Goose_bistro_index.html'">Go to Black Goose index</button>
 <button onclick="window.location.href='bistro/bistro_inline.html'">Go to Bistro Inline Page</button>
 <button onclick="window.location.href='bistro/Black_Goose_Bistro_News.html'">Go to Bistro News</button>
 <button onclick="window.location.href='bistro/bistro-tapenade.html'">View Tapenade Recipe</button>
