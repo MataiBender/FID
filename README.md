@@ -39,6 +39,9 @@ Assigments from class will be here in the pursuit of learning HTML coding
 <button onclick="window.location.href='bistro/bistro_inline.html'">Go to Bistro Inline Page</button>
 <button onclick="window.location.href='bistro/Black_Goose_Bistro_News.html'">Go to Bistro News</button>
 <button onclick="window.location.href='bistro/bistro-tapenade.html'">View Tapenade Recipe</button>
+<a href="responsivegallery/Blackstone_Bistro_Gallery.html"><button>View Bistro Gallery</button></a>
+
+
 </body>
 </html>
 
